@@ -1,0 +1,10 @@
+adminUser:
+  password: local:certifai-jenkins-x/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: mvutapla@cognitivescale.com
+  token: local:certifai-jenkins-x/pipelineUser:token
+  username: mvutapla-cs
+prow:
+  hmacToken: local:certifai-jenkins-x/prow:hmacToken
