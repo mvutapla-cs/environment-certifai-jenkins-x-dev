@@ -17,42 +17,42 @@ cluster:
 environments:
 - ingress:
     domain: dev.jenkins-x.insights.ai
-    externalDNS: false
+    externalDNS: true
     namespaceSubDomain: -jx.
     tls:
-      email: ""
-      enabled: false
+      email: mvutapla@cognitivescale.com
+      enabled: true
       production: false
   key: dev
   repository: environment-certifai-jenkins-x-dev
 - ingress:
-    domain: ""
-    externalDNS: false
-    namespaceSubDomain: ""
+    domain: dev.jenkins-x.insights.ai
+    externalDNS: true
+    namespaceSubDomain: -jx.
     tls:
-      email: ""
-      enabled: false
+      email: mvutapla@cognitivescale.com
+      enabled: true
       production: false
   key: staging
   repository: environment-certifai-jenkins-x-staging
 - ingress:
-    domain: ""
-    externalDNS: false
-    namespaceSubDomain: ""
+    domain: dev.jenkins-x.insights.ai
+    externalDNS: true
+    namespaceSubDomain: -jx.
     tls:
-      email: ""
-      enabled: false
-      production: false
+      email: mvutapla@cognitivescale.com
+      enabled: true
+      production: true
   key: production
   repository: environment-certifai-jenkins-x-production
 gitops: true
 ingress:
   domain: dev.jenkins-x.insights.ai
-  externalDNS: false
+  externalDNS: true
   namespaceSubDomain: -jx.
   tls:
-    email: ""
-    enabled: false
+    email: mvutapla@cognitivescale.com
+    enabled: true
     production: false
 kaniko: true
 repository: nexus
