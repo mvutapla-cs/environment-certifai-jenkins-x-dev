@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: mvutapla-cs
+  repo: certifai-jenkins
+  url: https://github.com/mvutapla-cs/certifai-jenkins.git
+  version: ""
+  versionURL: ""
