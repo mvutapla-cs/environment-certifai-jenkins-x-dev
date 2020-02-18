@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/mvutapla-cs/certifai-jenkins.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mvutapla-cs
+  repo: node-http-demo
+  url: https://github.com/mvutapla-cs/node-http-demo.git
+  version: ""
+  versionURL: ""
