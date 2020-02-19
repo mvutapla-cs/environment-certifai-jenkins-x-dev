@@ -59,11 +59,11 @@ repository: nexus
 secretStorage: local
 storage:
   backup:
-    enabled: false
-    url: ""
+    enabled: true
+    url: s3://certifai-jenkins-x-backup-79f598a4-2099-43e7-a9fa-27eea3ebc430
   logs:
-    enabled: false
-    url: ""
+    enabled: true
+    url: s3://certifai-jenkins-x-logs-6f396088-257f-49bc-9cd4-57dca8ec1522
   reports:
     enabled: false
     url: ""
