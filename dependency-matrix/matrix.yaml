@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/mvutapla-cs/aspnet-app.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mvutapla-cs
+  repo: demo
+  url: https://github.com/mvutapla-cs/demo.git
+  version: ""
+  versionURL: ""

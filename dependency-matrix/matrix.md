@@ -5,3 +5,4 @@ Dependency | Sources | Version | Mismatched versions
 [mvutapla-cs/certifai-jenkins](https://github.com/mvutapla-cs/certifai-jenkins.git) |  | []() | 
 [mvutapla-cs/python-jx](https://github.com/mvutapla-cs/python-jx.git) |  | []() | 
 [mvutapla-cs/aspnet-app](https://github.com/mvutapla-cs/aspnet-app.git) |  | []() | 
+[mvutapla-cs/demo](https://github.com/mvutapla-cs/demo.git) |  | []() | 
