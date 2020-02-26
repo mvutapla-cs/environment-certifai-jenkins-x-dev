@@ -19,7 +19,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: mvutapla-cs
-  repo: demo
-  url: https://github.com/mvutapla-cs/demo.git
+  repo: cortex-certifai-jx
+  url: https://github.com/mvutapla-cs/cortex-certifai-jx.git
   version: ""
   versionURL: ""
