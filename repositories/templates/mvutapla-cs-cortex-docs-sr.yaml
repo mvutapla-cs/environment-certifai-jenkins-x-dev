@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mvutapla-cs
+    provider: github
+    repository: cortex-docs
+  name: mvutapla-cs-cortex-docs
+spec:
+  description: Imported application for mvutapla-cs/cortex-docs
+  httpCloneURL: https://github.com/mvutapla-cs/cortex-docs.git
+  org: mvutapla-cs
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: cortex-docs
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mvutapla-cs/cortex-docs.git
