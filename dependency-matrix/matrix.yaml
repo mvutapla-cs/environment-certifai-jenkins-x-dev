@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/mvutapla-cs/aspnet-app.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mvutapla-cs
+  repo: cortex-certifai-jx
+  url: https://github.com/mvutapla-cs/cortex-certifai-jx.git
+  version: ""
+  versionURL: ""
