@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mvutapla-cs
+    provider: github
+    repository: cdocs
+  name: mvutapla-cs-cdocs
+spec:
+  description: Imported application for mvutapla-cs/cdocs
+  httpCloneURL: https://github.com/mvutapla-cs/cdocs.git
+  org: mvutapla-cs
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: cdocs
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mvutapla-cs/cdocs.git
