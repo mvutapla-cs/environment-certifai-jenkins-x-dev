@@ -2,6 +2,9 @@ buildPack: none
 pipelineConfig:
   pipelines:
     pullRequest:
+      build:
+        preSteps:
+        - command: env
       pipeline:
         agent:
           image: gcr.io/jenkinsxio/builder-go
