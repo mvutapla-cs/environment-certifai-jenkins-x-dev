@@ -22,6 +22,8 @@ environments:
     tls:
       email: mvutapla@cognitivescale.com
       enabled: true
+      email: ""
+      enabled: false
       production: false
   key: dev
   repository: environment-certifai-jenkins-x-dev
@@ -32,6 +34,12 @@ environments:
     tls:
       email: mvutapla@cognitivescale.com
       enabled: true
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
       production: false
   key: staging
   repository: environment-certifai-jenkins-x-staging
@@ -43,6 +51,13 @@ environments:
       email: mvutapla@cognitivescale.com
       enabled: true
       production: true
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
   key: production
   repository: environment-certifai-jenkins-x-production
 gitops: true
@@ -61,6 +76,8 @@ storage:
   backup:
     enabled: true
     url: s3://certifai-jenkins-x-backup-79f598a4-2099-43e7-a9fa-27eea3ebc430
+    enabled: false
+    url: ""
   logs:
     enabled: true
     url: s3://certifai-jenkins-x-logs-6f396088-257f-49bc-9cd4-57dca8ec1522
