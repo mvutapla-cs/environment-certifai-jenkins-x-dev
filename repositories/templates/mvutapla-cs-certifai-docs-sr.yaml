@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mvutapla-cs
+    provider: github
+    repository: certifai-docs
+  name: mvutapla-cs-certifai-docs
+spec:
+  description: Imported application for mvutapla-cs/certifai-docs
+  httpCloneURL: https://github.com/mvutapla-cs/certifai-docs.git
+  org: mvutapla-cs
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: certifai-docs
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mvutapla-cs/certifai-docs.git

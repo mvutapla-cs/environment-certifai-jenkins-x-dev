@@ -41,3 +41,9 @@ dependencies:
   url: https://github.com/mvutapla-cs/jx-cortex-certifai-docs.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mvutapla-cs
+  repo: certifai-docs
+  url: https://github.com/mvutapla-cs/certifai-docs.git
+  version: ""
+  versionURL: ""
