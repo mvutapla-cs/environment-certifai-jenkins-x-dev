@@ -10,3 +10,4 @@ Dependency | Sources | Version | Mismatched versions
 [mvutapla-cs/cortex-docs](https://github.com/mvutapla-cs/cortex-docs.git) |  | []() | 
 [mvutapla-cs/jx-cortex-certifai-docs](https://github.com/mvutapla-cs/jx-cortex-certifai-docs.git) |  | []() | 
 [mvutapla-cs/certifai-docs](https://github.com/mvutapla-cs/certifai-docs.git) |  | []() | 
+[mvutapla-cs/cdocs](https://github.com/mvutapla-cs/cdocs.git) |  | []() | 
