@@ -2,7 +2,7 @@ apiVersion: jenkins.io/v1
 kind: SourceRepository
 metadata:
   annotations:
-    jenkins.io/last-build-number-for-master: "11"
+    jenkins.io/last-build-number-for-master: "12"
   creationTimestamp: null
   labels:
     jenkins.io/chart-release: repos
