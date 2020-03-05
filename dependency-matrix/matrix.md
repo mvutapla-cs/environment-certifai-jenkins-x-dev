@@ -11,3 +11,4 @@ Dependency | Sources | Version | Mismatched versions
 [mvutapla-cs/jx-cortex-certifai-docs](https://github.com/mvutapla-cs/jx-cortex-certifai-docs.git) |  | []() | 
 [mvutapla-cs/certifai-docs](https://github.com/mvutapla-cs/certifai-docs.git) |  | []() | 
 [mvutapla-cs/cdocs](https://github.com/mvutapla-cs/cdocs.git) |  | []() | 
+[CognitiveScale/certifai-reference-models-jx](https://github.com/CognitiveScale/certifai-reference-models-jx.git) |  | []() | 

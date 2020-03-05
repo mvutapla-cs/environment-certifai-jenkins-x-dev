@@ -53,3 +53,9 @@ dependencies:
   url: https://github.com/mvutapla-cs/cdocs.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: CognitiveScale
+  repo: certifai-reference-models-jx
+  url: https://github.com/CognitiveScale/certifai-reference-models-jx.git
+  version: ""
+  versionURL: ""
